@@ -3,17 +3,24 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "chlstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "junk1917"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "22Dakota56"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "chl1917"
+    },
+    "location":{
+      "value": "West US"
+    },
+    "sizeOfDiskInGB":{
+      "value": "20"
     }
-  }
-}
+    }
+    }
+ 
 
